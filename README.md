@@ -16,6 +16,8 @@ Per i gestori, Nightify ottimizza la gestione della capienza e della sicurezza c
   Dice => App di prenotazione per eventi musicali con focus su concerti e serate di DJ.
   
 ## Requisiti Funzionali 
+![image](https://github.com/user-attachments/assets/ec53af4d-498b-4ce7-9f21-cc0de2341566)
+
 * Registrazione Utente => Gli utenti devono poter registrarsi tramite email o social media e creare un profilo personale.
 
 * Prenotazione Eventi => Possibilità di visualizzare, selezionare e prenotare serate ed eventi in discoteca con varie opzioni (tavoli, ingressi generali).

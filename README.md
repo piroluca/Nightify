@@ -18,7 +18,7 @@ Per i gestori, Nightify ottimizza la gestione della capienza e della sicurezza c
 ## Requisiti Funzionali 
 ![image](https://github.com/user-attachments/assets/4c5b566d-2cfb-4bb5-9474-c2516a873c71)
 
-* Registrazione Utente => Gli utenti devono poter registrarsi tramite email o social media e creare un profilo personale.
+* Registrazione Utente => Gli utenti devono poter registrarsi tramite email e creare un profilo personale, al quale si deve aggiungere la carta d'indentità per la verifica dell'età minima della serata.
 
 * Prenotazione Eventi => Possibilità di visualizzare, selezionare e prenotare serate ed eventi in discoteca con varie opzioni (tavoli, ingressi generali).
 

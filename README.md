@@ -6,7 +6,7 @@ Nightify è una piattaforma innovativa per la gestione e prenotazione delle sera
 
 ## problemi che risolve 
 Nightify risolve per gli utenti la difficoltà di prenotare tavoli e posti, evitando lunghe code e attese per conferme telefoniche. Gli utenti possono controllare in tempo reale la disponibilità, riducendo l’incertezza e migliorando l'esperienza di accesso con procedure più rapide e organizzate. Inoltre, ricevono notifiche tempestive per aggiornamenti o cambiamenti negli eventi.
-Per i gestori, Nightify ottimizza la gestione della capienza e della sicurezza con un sistema centralizzato che riduce il rischio di sovraffollamento o spazi inutilizzati. La visibilità in tempo reale sulle prenotazioni e un sistema di feedback strutturato consentono di pianificare le risorse con precisione, aumentando l’efficienza e migliorando l’esperienza complessiva delle serate.
+Per i gestori, Nightify ottimizza la gestione della capienza e della sicurezza con un sistema centralizzato che riduce il rischio di sovraffollamento o spazi inutilizzati. La visibilità in tempo reale sulle prenotazioni e un sistema di feedback strutturato che consentono di pianificare le risorse con precisione, aumentando l’efficienza e migliorando l’esperienza complessiva delle serate.
 
 ## Competitors 
   Eventbride => Piattaforma di gestione eventi per prenotazioni e acquisto biglietti.
@@ -16,7 +16,7 @@ Per i gestori, Nightify ottimizza la gestione della capienza e della sicurezza c
   Dice => App di prenotazione per eventi musicali con focus su concerti e serate di DJ.
   
 ## Requisiti Funzionali 
-![image](https://github.com/user-attachments/assets/ec53af4d-498b-4ce7-9f21-cc0de2341566)
+![image](https://github.com/user-attachments/assets/4c5b566d-2cfb-4bb5-9474-c2516a873c71)
 
 * Registrazione Utente => Gli utenti devono poter registrarsi tramite email o social media e creare un profilo personale.
 
